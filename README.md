@@ -1,6 +1,6 @@
 ### 안녕하세요
--개발자가 되고 싶은 잼민이 입니다
--js 와 3.14🌞을 배우고 잇읍닏아
+#-개발자가 되고 싶은 잼민이 입니다
+#-js 와 3.14🌞을 배우고 잇읍닏아
 <!--
 **link123e/link123e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
