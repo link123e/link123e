@@ -1,4 +1,4 @@
-### Hi there 👋
+### 프로그래머가 되고싶은 잼민이
 
 <!--
 **link123e/link123e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
